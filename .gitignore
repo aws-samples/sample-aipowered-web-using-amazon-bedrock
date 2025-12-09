@@ -1,0 +1,7 @@
+**/.aws-sam
+**/*/.venv
+.DS_Store
+**/*/cdk/__pycache__/*
+**/*/cdk.out/
+*/__pycache__/*
+**/*/__pycache__/*
