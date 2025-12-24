@@ -1,4 +1,4 @@
-# 💡 Customer Support AI Assistant
+# 💡 Build an AI-powered website assistant with Amazon Bedrock
 
 ## ℹ️ Project Overview
 
