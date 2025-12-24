@@ -57,5 +57,3 @@ To destroy the stack:
 ```
 cdk destroy
 ```
-
-Note: The S3 bucket is configured with `RemovalPolicy.RETAIN` to prevent accidental deletion of your data. You'll need to manually empty and delete the bucket if you want to remove it completely.
