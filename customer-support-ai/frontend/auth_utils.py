@@ -60,7 +60,7 @@ class SecurityHeaders:
         # Content Security Policy - strict, no external CDNs
         csp = (
             "default-src 'self'; "
-            "script-src 'self' 'unsafe-inline' 'unsafe-eval'; "
+            "script-src 'self' 'unsafe-inline'; "
             "style-src 'self' 'unsafe-inline'; "
             "font-src 'self'; "
             "img-src 'self' data:; "
